@@ -45,7 +45,7 @@ function Home() {
     if (groupSize && textInput) {
       e.preventDefault();
       setGroupArray([[]]);
-      setMembersArray(textInput.replaceAll(" ", "").split(","));
+      setMembersArray(textInput.split(","));
     }
   }
 
