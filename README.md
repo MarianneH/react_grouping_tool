@@ -7,8 +7,12 @@ It's build by using create-react-app.
 published on Netlify: https://lets-regroup.netlify.app/
 
 ## how to run it
+* clone the repositiory
+* run `npm install`to install all dependencies
+* run `npm start` to run the application locally
 
-`npm install` -> `npm start`
+## What it looks like 
+![lets-regroup](https://user-images.githubusercontent.com/11974105/211530178-0a487817-66a0-441d-ba8e-8aaf39792f54.png)
 
 ## planned iterations
 
